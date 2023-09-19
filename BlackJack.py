@@ -32,12 +32,6 @@ def compare(user_score, computer_score, user_cards, computer_cards):
     else:
         return"Dealer win"
 
-# def split():
-
-
-
-
-
 
 def play():
     user_cards = []
